@@ -37,16 +37,11 @@ Fulkumari, Udaipur, Tripura
 **Kamalghat H.S. School**, Tripura
 
 ---
-
-# 🚀 Featured Work
-
-### 🌐 Nilay Portfolio Website  
-A modern personal portfolio showcasing my skills, education, projects, experience, and certifications.  
+### 🌐Portfolio   
 🔗 **Live:** https://nilayghosh901.github.io/Portfolio/
 
 ### 🧠 Nilay Brain  
 A curated knowledge and learning system designed to make concepts easier and faster to access.
-
 ---
 
 # 💼 Experience
@@ -81,29 +76,6 @@ Git · GitHub · VS Code · Excel · Google Colab · Jupyter Notebook
 
 ---
 
-# 📂 Projects
-
-### 🩺 Disease Prediction System  
-A machine learning model predicting diseases using symptoms.  
-**Tech Used:** Python, Pandas, Scikit-Learn  
-🔗 Repo: https://github.com/NilayGhosh901/Disease-Prediction-Using-Machine-Learning
-
----
-
-### 🤖 Chatbot Application (Gemini AI)  
-A lightweight web chatbot using Google Gemini API.  
-**Tech Used:** HTML, CSS, JavaScript  
-🔗 Repo: https://github.com/NilayGhosh901/ChatBot
-
----
-
-### 🗣 Voice Assistant  
-A Python-based voice assistant that performs basic automated tasks.  
-**Tech Used:** Python, SpeechRecognition, pyttsx3  
-🔗 Repo: https://github.com/NilayGhosh901/Voice-Assistant
-
----
-
 # 📜 Certifications
 
 - Google Analytics Certification (2024)  
@@ -111,21 +83,6 @@ A Python-based voice assistant that performs basic automated tasks.
 - Data Science & Machine Learning – GeeksforGeeks  
 
 ---
-
-# 💬 Recommendations
-Feedback section on my website includes supportive comments highlighting:
-- Strong learning attitude  
-- Good understanding of ML concepts  
-- Ability to build practical projects  
-- Consistency and discipline in learning  
-
----
-
-# 📫 Contact Me
-
-📍 **Agartala, Tripura, India**  
-📧 **Email:** nilayghosh901@gmail.com  
-📱 **Phone:** 9366449167  
 
 ### 🌐 Socials  
 **Portfolio:** https://nilayghosh901.github.io/Portfolio/  
