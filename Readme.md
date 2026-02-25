@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00eaff;">Nilay Ghosh</span></h1> <p align="center"> Full Stack Developer • AI/ML Engineer • Content Developer (Govt. of Tripura) <br> From Tripura, India 🇮🇳 </p>
+<h1 align="center">👋 Hi, I'm <span style="color:#00eaff;">Nilay Ghosh</span></h1> <p align="center"> AI/ML Engineer • Content Developer (Govt. of Tripura) <br> From Tripura, India 🇮🇳 </p>
 💫 About Me
 
 🔍 I am a Computer Science & Engineering (AI & ML) graduate currently working as a Content Developer at the Directorate of Information Technology, Government of Tripura, contributing to the development and management of dynamic e-governance web platforms.
